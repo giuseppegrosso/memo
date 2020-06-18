@@ -1,0 +1,23 @@
+{
+  "users" : [
+    {"id":1, "name": "Paolino Paperino", "title":"mega direttore"},
+    {"id":2, "name": "Mickey Mouse", "title":"Zerbino"},
+    {"id":3, "name": "Zio Paperone", "title":"Presidente"},
+    {"id":4, "name": "Ugo Fantozzi", "title":"Parafulmine"},
+    {"id":5, "name": "Zio Francesco", "title":"Impiegato"}
+  ],
+  "posts": [
+    { "id": 1, "title": "Ricerca su storia" },
+    { "id": 2, "title": "Ricerca inglese" },
+    { "id": 3, "title": "La mesopotamia" },
+    { "id": 4, "title": "La prima guerra mondiale" },
+    { "id": 5, "title": "La seconda guerra mondiale" }
+  ],
+  "comments": [
+    { "id": 1, "body": "interessante", "postId": 1, "userId": 1 },
+    { "id": 2, "body": "rilevante", "postId": 2, "userId": 2 },
+    { "id": 3, "body": "non rilevante", "postId": 3, "userId": 3 },
+    { "id": 4, "body": "molto interessante", "postId": 4, "userId": 4 },
+    { "id": 4, "body": "ancora attuale", "postId": 5, "userId": 5 },
+  ]
+}
