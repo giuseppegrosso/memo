@@ -18,6 +18,6 @@
     { "id": 2, "body": "rilevante", "postId": 2, "userId": 2 },
     { "id": 3, "body": "non rilevante", "postId": 3, "userId": 3 },
     { "id": 4, "body": "molto interessante", "postId": 4, "userId": 4 },
-    { "id": 4, "body": "ancora attuale", "postId": 5, "userId": 5 },
+    { "id": 4, "body": "ancora attuale", "postId": 5, "userId": 5 }
   ]
 }
